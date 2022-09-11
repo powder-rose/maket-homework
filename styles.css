@@ -1,6 +1,6 @@
 
 .header {
-    width: 80%;
+    width: 90%;
     height: 80px;
     background-color: rgb(225, 184, 245);
 }
@@ -9,7 +9,7 @@
     display: flex;
     flex-flow: row wrap;
     height: 75vh;
-    width: 80%;
+    width: 90%;
     background-color: rgb(231, 229, 255);
 }
 
@@ -51,7 +51,7 @@
 
 .footer {
     display: flex;
-    width: 80%;
+    width: 90%;
     background-color: rgb(228, 207, 250);
 }
 
